@@ -20,13 +20,17 @@ footer{
 /* end of letters */
 
 /* custom */
+q{
+	font-style: italic;
+}
+
 #dedication,
 #a-start-in-life {
 	margin-top: 20vh;
 }
 
 #a-start-in-life blockquote div {
-	margin-left: 50%;
+	margin-left: 40%;
 	text-align: initial;
 }
 
