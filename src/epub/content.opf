@@ -42,13 +42,13 @@
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta id="collection-2" property="belongs-to-collection">The Human Comedy: Scenes from Private Life</meta>
 		<meta property="collection-type" refines="#collection-2">series</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A young man ventures out on his own and suffers the consequences of his pride and impulsiveness.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Oscar Husson is a young man with an overdeveloped sense of pride. Placed on a coach by his mother, who has pampered him excessively, to go to spend some time with a former intimate friend of hers to see if he can help with Oscar’s prospects, Oscar proceeds to make a fool of himself. Suffering the consequences of his humiliation, his mother pulls other strings to land him in a lesser job, where Oscar eventually falls flat again. Forced into the military by circumstances and the lack of other prospects, he finally redeems himself.&lt;/p&gt;
+			&lt;p&gt;At its core a bildungsroman, &lt;i&gt;A Start in Life&lt;/i&gt; is filled with the types of side characters that inhabit every &lt;a href="https://standardebooks.org/ebooks/honore-de-balzac"&gt;Balzac&lt;/a&gt; story: the rich, the pretenders striving to be rich, the everyman and woman. The novel opens with an extended journey on a French carriage, and the claustrophobic conversation that takes place between the passengers, and closes with another similar journey years later that includes most of the same participants. In between are multiple intrigues involving Oscar either directly or indirectly, with the vivid descriptions and characterizations for which Balzac is known.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://archive.org/details/worksofhonorde11balzuoft</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Start_in_Life</meta>
