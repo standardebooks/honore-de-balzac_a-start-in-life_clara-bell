@@ -30,12 +30,6 @@ q{
 }
 
 #a-start-in-life blockquote div{
-	margin-left: 40%;
-	text-align: initial;
-}
-
-#a-start-in-life blockquote div p{
-	padding-left: 1em;
-	text-indent: -1em;
+	text-align: right;
 }
 /* end of custom */
