@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/honore-de-balzac/a-start-in-life/clara-bell</dc:identifier>
 		<dc:date>2024-07-06T18:13:47Z</dc:date>
@@ -44,11 +44,11 @@
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta id="collection-2" property="belongs-to-collection">The Human Comedy: Scenes from Private Life</meta>
 		<meta property="collection-type" refines="#collection-2">series</meta>
-		<dc:description id="description">A young man ventures out on his own and suffers the consequences of his pride and impulsiveness.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young man ventures out on his own and suffers the consequences of his pride and impulsiveness.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Oscar Husson is a young man with an overdeveloped sense of pride. His mother, who has pampered him excessively, places him on a coach to go spend time with a friend of hers to see if Oscar’s prospects can be improved, but Oscar proceeds to make a fool of himself. Suffering the consequences of his humiliation, his mother pulls other strings to land him a lesser job, where Oscar eventually falls flat again. Forced into the military by his circumstances and his lack of other prospects, he finally redeems himself.&lt;/p&gt;
 			&lt;p&gt;At its core a bildungsroman, &lt;i&gt;A Start in Life&lt;/i&gt; is filled with the types of side characters that inhabit every &lt;a href="https://standardebooks.org/ebooks/honore-de-balzac"&gt;Balzac&lt;/a&gt; story: the rich, the pretenders striving to be rich, the everyman and woman. The novel opens with an extended journey on a French carriage and the claustrophobic conversation that takes place between the passengers; it closes with another, similar, journey years later that includes most of the same travelers. In between are multiple intrigues involving Oscar, written in the vivid style for which Balzac is known.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://archive.org/details/worksofhonorde11balzuoft</dc:source>
 		<meta property="schema:wordCount">59087</meta>
